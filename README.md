@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my GitHub.👋 <br/> My name is InkyeongBae. I am a Software major student at Chung-Ang University. 
 
 <!--
 **InKyeongBae/InKyeongBae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
