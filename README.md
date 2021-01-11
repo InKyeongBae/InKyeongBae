@@ -32,7 +32,7 @@
 >> Adobe Photoshop <br/>
 
 
-### :blue_heart: Now I'm studying 
+### :green_heart: Now I'm studying 
 > __Web Framework__ <br/>
 >> Spring, Node.js <br/>
 
