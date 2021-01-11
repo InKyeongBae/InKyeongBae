@@ -16,7 +16,9 @@
 |:black_nib: <br/>**Study** | <center> 2019. 03 ~ 2019. 06</center> | *솦뿐솦뿐 - Basic computer programming* | Chung-Ang University ALCP |
 |:black_nib: <br/>**Study** | <center> 2019. 09 ~ 2019. 12</center> | *알고리듬타 - Algorithm* | Chung-Ang University ALCP |
 |:black_nib: <br/>**Study** | <center> 2020. 03 ~ 2020. 06</center> | *오리알쿼드라 - DB / SQL* | Chung-Ang University ALCP |
-|:pencil2: <br/>**Research Activities** | <center> 2021. 01 ~ 2021. 02</center> | *Undergraduate Research Students* | Chung-Ang University. Computer Vision Machine Learning Lab |
+|:pencil2: <br/>**Research Activity** | <center> 2021. 01 ~ 2021. 02</center> | *Undergraduate Research Students* | Chung-Ang University. Computer Vision Machine Learning Lab |
+|:blush: <br/>**Activity** | <center> 2020. 07</center> | *Aduino Educational Service Mentor* | Chung-Ang University. Software Volunteer Group |
+|:blush: <br/>**Activity** | <center> 2020. 07 ~ 2020. 12</center> | *Web Development club <br/>단디알아방 서비스 팀장* | Club ) PIROGRAMMING 13th |
 |:trophy: <br/>**Award** | <center> 2020. 08</center> | *SW•AI TECH FAIR - 창업아이디어 경진대회 우수상* | Chung-Ang University Davinch |
 
 <hr>
