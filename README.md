@@ -19,6 +19,7 @@
 |:pencil2: <br/>**Research Activities** | <center> 2021. 01 ~ 2021. 02</center> | *Undergraduate Research Students* | Chung-Ang University. Computer Vision Machine Learning Lab |
 |:trophy: <br/>**Award** | <center> 2020. 08</center> | *SW•AI TECH FAIR - 창업아이디어 경진대회 우수상* | Chung-Ang University Davinch |
 
+<hr>
 
 ### :blue_heart: Develop Stack
 > __Language__ <br/>
@@ -31,6 +32,7 @@
 > __Design__ <br/>
 >> Adobe Photoshop <br/>
 
+<br/>
 
 ### :green_heart: Now I'm studying 
 > __Web Framework__ <br/>
