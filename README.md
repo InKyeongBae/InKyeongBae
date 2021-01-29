@@ -20,6 +20,7 @@
 |:pencil2: <br/>**Research Activity** | <center> 2021. 01 ~ 2021. 02</center> | *Undergraduate Research Students* | Chung-Ang University. Computer Vision Machine Learning Lab |
 |:blush: <br/>**Activity** | <center> 2020. 07</center> | *Aduino Educational Service Mentor* | Chung-Ang University. Software Volunteer Group |
 |:blush: <br/>**Activity** | <center> 2020. 07 ~ 2020. 12</center> | *Web Development club <br/>단디알아방 서비스 팀장* | Club ) PIROGRAMMING 13th |
+|:blush: <br/>**Activity** | <center> 2021. 02</center> | *Web Development club <br/>피로그래밍 공식 홈페이지 서비스 팀장* | Club ) PIROGRAMMING 14th Staff |
 |:trophy: <br/>**Award** | <center> 2020. 08</center> | *SW•AI TECH FAIR - 창업아이디어 경진대회 우수상* | Chung-Ang University Davinch |
 
 <hr>
