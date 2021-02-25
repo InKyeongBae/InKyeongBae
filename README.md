@@ -19,11 +19,11 @@
 |:black_nib: <br/>**Study** | <center> 2021. 02</center> | *UX Study* | UNDERPASS 4th |
 |:pencil2: <br/>**Research Activity** | <center> 2021. 01 ~ 2021. 02</center> | *Undergraduate Research Students* | Chung-Ang University. Computer Vision Machine Learning Lab |
 |:blush: <br/>**Activity** | <center> 2020. 07</center> | *Aduino Educational Service Mentor* | Chung-Ang University. Software Volunteer Group |
-|:blush: <br/>**Activity** | <center> 2020. 07 ~ 2020. 12</center> | *Web Development club <br/>단디알아방 서비스 팀장* | Club ) PIROGRAMMING 13th |
-|:blush: <br/>**Activity** | <center> 2021. 02</center> | *Web Development club <br/>피로그래밍 공식 홈페이지 서비스 팀장* | Club ) PIROGRAMMING 14th Staff |
+|:blush: <br/>**Activity** | <center> 2020. 07 ~ 2020. 12</center> | *Web Development club <br/>단디알아방 서비스 팀장* | Club ) PIROGRAMMING 13th <br/> [Click](http://dandiarabang.com/) |
+|:blush: <br/>**Activity** | <center> 2021. 02</center> | *Web Development club <br/>피로그래밍 공식 홈페이지 서비스 팀장* | Club ) PIROGRAMMING 14th Staff <br/> [Click](https://pirogramming.com/) |
 |:blush: <br/>**Activity** | <center> 2021. 02 ~ 2021. 06</center> | *Development club <br/>iOS 1팀 서비스* | Club ) DDD 5th |
 |:trophy: <br/>**Award** | <center> 2020. 08</center> | *SW•AI TECH FAIR - 창업아이디어 경진대회 우수상* | Chung-Ang University Davinch |
-|:trophy: <br/>**Award** | <center> 2021. 02</center> | *2020 - 동계방학 CLUG 해커톤 1등 (Team. 잔디의같이)* | CAU Linuxer & Unixer Group 'CLUG' |
+|:trophy: <br/>**Award** | <center> 2021. 02</center> | *2020 - 동계방학 CLUG 해커톤 1등 (Team. 잔디의같이)* | CAU Linuxer & Unixer Group 'CLUG' <br/> [Click](https://www.jandevelop.com/) |
 <hr>
 
 ### :blue_heart: Develop Stack
