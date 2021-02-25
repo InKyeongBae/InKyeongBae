@@ -21,8 +21,9 @@
 |:blush: <br/>**Activity** | <center> 2020. 07</center> | *Aduino Educational Service Mentor* | Chung-Ang University. Software Volunteer Group |
 |:blush: <br/>**Activity** | <center> 2020. 07 ~ 2020. 12</center> | *Web Development club <br/>단디알아방 서비스 팀장* | Club ) PIROGRAMMING 13th |
 |:blush: <br/>**Activity** | <center> 2021. 02</center> | *Web Development club <br/>피로그래밍 공식 홈페이지 서비스 팀장* | Club ) PIROGRAMMING 14th Staff |
+|:blush: <br/>**Activity** | <center> 2021. 02 ~ 2021. 06</center> | *Development club <br/>iOS 1팀 서비스* | Club ) DDD 5th |
 |:trophy: <br/>**Award** | <center> 2020. 08</center> | *SW•AI TECH FAIR - 창업아이디어 경진대회 우수상* | Chung-Ang University Davinch |
-
+|:trophy: <br/>**Award** | <center> 2021. 02</center> | *2020 - 동계방학 CLUG 해커톤 1등 (Team. 잔디의같이)* | CAU Linuxer & Unixer Group 'CLUG' |
 <hr>
 
 ### :blue_heart: Develop Stack
@@ -31,7 +32,7 @@
 >> HTML / CSS / JavaScript <br/>
 
 > __Web Framework__ <br/>
->> DJango <br/>
+>> DJango, SpringBoot <br/>
 
 > __Design__ <br/>
 >> Adobe Photoshop <br/>
@@ -39,10 +40,6 @@
 <br/>
 
 ### :green_heart: Now I'm studying 
-> __Web Framework__ <br/>
->> Spring, React <br/>
+>> Spring, React, JavaScript <br/>
 
-
-> __Machine Learning / Deep Learning__ <br/>
->> Pytorch <br/>
 
