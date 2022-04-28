@@ -19,16 +19,16 @@
 |:black_nib: <br/>**Study** | <center> 2021. 02</center> | *UX Study* | UNDERPASS 4th |
 |:pencil2: <br/>**Research Activity** | <center> 2021. 01 ~ 2021. 02</center> | *Undergraduate Research Students* | Chung-Ang University. Computer Vision Machine Learning Lab |
 |:blush: <br/>**Activity** | <center> 2020. 07</center> | *Aduino Educational Service Mentor* | Chung-Ang University. Software Volunteer Group |
-|:blush: <br/>**Activity** | <center> 2020. 07 ~ 2020. 12</center> | *Web Development club <br/>단디알아방 서비스 팀장* | Club ) PIROGRAMMING 13th <br/> [Click Site](http://dandiarabang.com/) |
-|:blush: <br/>**Activity** | <center> 2021. 02</center> | *Web Development club <br/>피로그래밍 공식 홈페이지 서비스 팀장* | Club ) PIROGRAMMING 14th Staff <br/> [Click Site](https://pirogramming.com/) |
-|:blush: <br/>**Activity** | <center> 2021. 02 ~ 2021. 06 </center> | *iOS Team_Digging. Server* | Club ) DDD 5th |
+|:blush: <br/>**Activity** | <center> 2020. 07 ~ 2020. 12</center> | *Web Development club <br/>단디알아방 서비스 팀장* | Club ) PIROGRAMMING 13th <br/> [Github Repository](https://github.com/pirogramming/DD_AraBang) <br/> 배포주소 : http://dandiarabang.com/ |
+|:blush: <br/>**Activity** | <center> 2021. 02</center> | *Web Development club <br/>피로그래밍 공식 홈페이지 서비스 팀장* | Club ) PIROGRAMMING 14th Staff <br/> [Github Repository](https://github.com/pirogramming/Piro_HomePage) <br/> 배포주소 : [Click Site](https://pirogramming.com/) |
+|:blush: <br/>**Activity** | <center> 2021. 02 ~ 2021. 06 </center> | *iOS Team_Digging. Server* | Club ) DDD 5th <br/> [Github Repository](https://github.com/DDD-5/serverDigging) |
 |:blush: <br/>**Activity** | <center> 2021. 03 ~ 2021. 07 </center> | *Tutoring Help Desk Mentor* | Chung-Ang University. Da Vinci Software Education Institute |
 |:blush: <br/>**Activity** | <center> 2021. 03 ~ 2021. 07 </center> | *Class assistant* | Chung-Ang University. Class '컴퓨팅적 사고와 문제해결' |
 |:blush: <br/>**Activity** | <center> 2021. 11 ~ </center> | *42Seoul Cadet* | InnovationAcademy '42Seoul' |
 |:blush: <br/>**Activity** | <center> 2022. 03 ~ 2022. 07 </center> | *Tutoring Help Desk Mentor* | Chung-Ang University. Da Vinci Software Education Institute |
 |:blush: <br/>**Activity** | <center> 2022. 03 ~ 2022. 07 </center> | *Class assistant* | Chung-Ang University. Class '컴퓨팅 사고와 인공지능 리터러시' |
 |:trophy: <br/>**Award** | <center> 2020. 08</center> | *SW•AI TECH FAIR - 창업아이디어 경진대회 우수상* | Chung-Ang University Davinch |
-|:trophy: <br/>**Award** | <center> 2021. 02</center> | *2020 - 동계방학 CLUG 해커톤 1등 (Team. 잔디의같이)* | CAU Linuxer & Unixer Group 'CLUG' <br/> [Click Site](https://www.jandevelop.com/) |
+|:trophy: <br/>**Award** | <center> 2021. 02</center> | *2020 - 동계방학 CLUG 해커톤 1등 (Team. 잔디의같이)* | CAU Linuxer & Unixer Group 'CLUG' <br/> [Github Repository](https://github.com/CLUG-kr/Backend_JANDI-s_VALUE) <br/> 배포주소 : https://www.jandevelop.com/ |
 <hr>
 
 ### :blue_heart: Develop Stack
