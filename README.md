@@ -24,8 +24,8 @@
 |:blush: <br/>**Activity** | <center> 2021. 02 ~ 2021. 06 </center> | *iOS Team_Digging. Server* | Club ) DDD 5th |
 |:blush: <br/>**Activity** | <center> 2021. 03 ~ 2021. 07 </center> | *Tutoring Help Desk Mentor* | Chung-Ang University. Da Vinci Software Education Institute |
 |:blush: <br/>**Activity** | <center> 2021. 03 ~ 2021. 07 </center> | *Class assistant* | Chung-Ang University. Class '컴퓨팅적 사고와 문제해결' |
-|:blush: <br/>**Activity** | <center> 2022. 03 ~ 2022. 07 </center> | *Tutoring Help Desk Mentor* | Chung-Ang University. Da Vinci Software Education Institute |
 |:blush: <br/>**Activity** | <center> 2021. 11 ~ </center> | *42Seoul Cadet* | InnovationAcademy '42Seoul' |
+|:blush: <br/>**Activity** | <center> 2022. 03 ~ 2022. 07 </center> | *Tutoring Help Desk Mentor* | Chung-Ang University. Da Vinci Software Education Institute |
 |:blush: <br/>**Activity** | <center> 2022. 03 ~ 2022. 07 </center> | *Class assistant* | Chung-Ang University. Class '컴퓨팅 사고와 인공지능 리터러시' |
 |:trophy: <br/>**Award** | <center> 2020. 08</center> | *SW•AI TECH FAIR - 창업아이디어 경진대회 우수상* | Chung-Ang University Davinch |
 |:trophy: <br/>**Award** | <center> 2021. 02</center> | *2020 - 동계방학 CLUG 해커톤 1등 (Team. 잔디의같이)* | CAU Linuxer & Unixer Group 'CLUG' <br/> [Click Site](https://www.jandevelop.com/) |
