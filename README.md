@@ -27,6 +27,7 @@
 |:blush: <br/>**Activity** | <center> 2021. 11 ~ </center> | *42Seoul Cadet* | InnovationAcademy '42Seoul' |
 |:blush: <br/>**Activity** | <center> 2022. 03 ~ 2022. 07 </center> | *Tutoring Help Desk Mentor* | Chung-Ang University. Da Vinci Software Education Institute |
 |:blush: <br/>**Activity** | <center> 2022. 03 ~ 2022. 07 </center> | *Class assistant* | Chung-Ang University. Class '컴퓨팅 사고와 인공지능 리터러시' |
+|:blush: <br/>**Activity** | <center> 2022. 06 </center> | *SW 공동해커톤 <br/> BusinessZIP 서비스 팀장 및 Frontend* | SW중심대학 <br/> [Github Repository](https://github.com/BusinessZIP/businesszip-frontend) |
 |:blush: <br/>**Activity** | <center> 2022. 09 ~ 2022. 12 </center> | *Major Tutoring Help Desk Mentor* | Chung-Ang University. Da Vinci Software Education Institute |
 |:blush: <br/>**Activity** | <center> 2022. 09 ~ 2022. 12 </center> | *Class assistant* | Chung-Ang University. Class '컴퓨팅 사고와 인공지능 리터러시' |
 |:trophy: <br/>**Award** | <center> 2020. 08</center> | *SW•AI TECH FAIR - 창업아이디어 경진대회 우수상* | Chung-Ang University Davinch |
