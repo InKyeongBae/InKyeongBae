@@ -13,6 +13,7 @@
 |:closed_book: <br/>**Certificate** | <center>  </center> | *GTQ 그래픽 기술 자격 2급* | 한국생산성본부 |
 |:green_book: <br/>**Certificate** | <center>  </center> | *ITQ OA MASTER* | 한국생산성본부 |
 |:blue_book: <br/>**Certificate** | <center>  </center> | *정보처리기능사* | 한국산업인력공단 |
+|:orange_book: <br/>**Certificate** | <center> 2022.01.03 ~ 2022.01.09 </center> | *Google Cloud Big Data and Machine Learning Fundamentals* | Google Cloud coursera |
 |:black_nib: <br/>**Study** | <center> 2019. 03 ~ 2019. 06</center> | *솦뿐솦뿐 - Basic computer programming* | Chung-Ang University ALCP |
 |:black_nib: <br/>**Study** | <center> 2019. 09 ~ 2019. 12</center> | *알고리듬타 - Algorithm* | Chung-Ang University ALCP |
 |:black_nib: <br/>**Study** | <center> 2020. 03 ~ 2020. 06</center> | *오리알쿼드라 - DB / SQL* | Chung-Ang University ALCP |
