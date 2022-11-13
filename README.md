@@ -38,10 +38,10 @@
 ### :blue_heart: Develop Stack
 > __Language__ <br/>
 >> Python / C / C++ / Java <br/>
->> HTML / CSS / JavaScript <br/>
+>> HTML / CSS / JavaScript / Dart <br/>
 
 > __Web Framework__ <br/>
->> DJango, SpringBoot, React Native <br/>
+>> DJango, SpringBoot, React <br/>
 
 > __Design__ <br/>
 >> Adobe Photoshop <br/>
