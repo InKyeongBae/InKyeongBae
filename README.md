@@ -5,7 +5,10 @@
 <hr>
 
 ### :sparkling_heart: Career 
+<details>
+<summary> toggle </summary>
 
+<!-- summary 아래 한칸 공백 두어야함 -->
 |  <center> Type </center> |  <center> Date </center> |  <center> Contents </center> |  <center> Organization </center> |
 |:--------:|:--------:|:--------:|:--------:|
 |:mortar_board: <br/>**Graduate** | <center>2016. 03 ~ 2019. 02</center> |*POCHEOL HIGH 36* |POCHEOL HIGH School  |
@@ -37,6 +40,8 @@
 |:trophy: <br/>**Award** | <center> 2022. 09.29 </center> | *SW•AI TECH FAIR - 캡스톤디자인 경진대회 대상* | Chung-Ang University Davinch <br/> [Github Organization](https://github.com/triathlon-girls) |
 |:trophy: <br/>**Award** | <center> 2022. 12.02 </center> | *2022 중앙대학교 공학학술제 - 행정부총장상* | Chung-Ang University of Engineering, ICT Engineering, Software <br/> [Github Organization](https://github.com/triathlon-girls) |
 |:trophy: <br/>**Award** | <center> 2022. 12.08</center> | *2022 SW 인재페스티벌 우수작품 경진대회 - 대상 (과학기술정보통신부 장관상)* | 사단법인 SW중심 대학협의회 <br/> [Github Organization](https://github.com/triathlon-girls) |
+</details>
+
 <hr>
 
 ### :blue_heart: Develop Stack
