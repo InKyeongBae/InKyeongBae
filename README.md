@@ -1,8 +1,8 @@
 ## Welcome to my GitHub.👋 <br/> My name is InkyeongBae. I am a Software major student at Chung-Ang University. 
 
 >I am studying to be a ✨ __Developer__ ✨</span>. I'm also interested in __UX • UI Design__.
-
-
+>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=InKyeongBae&show_icons=true&theme=radical)
 ### :sparkling_heart: Career 
 <details>
 <summary> toggle </summary>
