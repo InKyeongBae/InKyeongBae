@@ -2,7 +2,6 @@
 
 >I am studying to be a ✨ __Developer__ ✨</span>. I'm also interested in __UX • UI Design__.
 
-<hr>
 
 ### :sparkling_heart: Career 
 <details>
@@ -42,7 +41,6 @@
 |:trophy: <br/>**Award** | <center> 2022. 12.08</center> | *2022 SW 인재페스티벌 우수작품 경진대회 - 대상 (과학기술정보통신부 장관상)* | 사단법인 SW중심 대학협의회 <br/> [Github Organization](https://github.com/triathlon-girls) |
 </details>
 
-<hr>
 
 ### :blue_heart: Develop Stack
 > __Language__ <br/>
