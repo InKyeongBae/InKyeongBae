@@ -23,7 +23,7 @@
 |:blush: <br/>**Activity** | <center> 2020. 07</center> | *Aduino Educational Service Mentor* | Chung-Ang University. Software Volunteer Group |
 |:blush: <br/>**Activity** | <center> 2020. 07 ~ 2020. 12</center> | *Web Development club <br/>단디알아방 서비스 팀장* | Club ) PIROGRAMMING 13th <br/> [Github Repository](https://github.com/pirogramming/DD_AraBang) <br/> 배포주소 : http://dandiarabang.com/ |
 |:blush: <br/>**Activity** | <center> 2021. 02</center> | *Web Development club <br/>피로그래밍 공식 홈페이지 서비스 팀장* | Club ) PIROGRAMMING 14th Staff <br/> [Github Repository](https://github.com/pirogramming/Piro_HomePage) <br/> 배포주소 : [Click Site](https://pirogramming.com/) |
-|:blush: <br/>**Activity** | <center> 2021. 02 ~ 2021. 06 </center> | *iOS Team_Digging. Server* | Club ) DDD 5th <br/> [Github Repository](https://github.com/DDD-5/serverDigging) |
+|:blush: <br/>**Activity** | <center> 2021. 02 ~ 2021. 06 </center> | *iOS Team_Digging. Server* | Club ) DDD 5th <br/> [Github Repository](https://github.com/InKyeongBae/digging-backend) |
 |:blush: <br/>**Activity** | <center> 2021. 03 ~ 2021. 07 </center> | *Tutoring Help Desk Mentor* | Chung-Ang University. Da Vinci Software Education Institute |
 |:blush: <br/>**Activity** | <center> 2021. 03 ~ 2021. 07 </center> | *Class assistant* | Chung-Ang University. Class '컴퓨팅적 사고와 문제해결' |
 |:blush: <br/>**Activity** | <center> 2021. 11 ~ 2022. 06 </center> | *42Seoul Cadet* | InnovationAcademy '42Seoul' |
