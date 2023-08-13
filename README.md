@@ -11,7 +11,8 @@
 |  <center> Type </center> |  <center> Date </center> |  <center> Contents </center> |  <center> Organization </center> |
 |:--------:|:--------:|:--------:|:--------:|
 |:mortar_board: <br/>**Graduate** | <center>2016. 03 ~ 2019. 02</center> |*POCHEOL HIGH 36* |POCHEOL HIGH School  |
-|:mortar_board: <br/>**Graduate**| <center>2019. 03 ~ </center> |*Computer Science & Software* |Chung-Ang University  |
+|:mortar_board: <br/>**Graduate**| <center>2019. 03 ~ 2023.08</center> |*Computer Science & Software* |Chung-Ang University  |
+|:woman_technologist: <br/>**Job**| <center>2023.02 ~ </center> |*Fullstack Engineer* | 주식회사 구름 |
 |:closed_book: <br/>**Certificate** | <center>  </center> | *GTQ 그래픽 기술 자격 2급* | 한국생산성본부 |
 |:green_book: <br/>**Certificate** | <center>  </center> | *ITQ OA MASTER* | 한국생산성본부 |
 |:blue_book: <br/>**Certificate** | <center>  </center> | *정보처리기능사* | 한국산업인력공단 |
@@ -39,6 +40,8 @@
 |:trophy: <br/>**Award** | <center> 2022. 09.29 </center> | *SW•AI TECH FAIR - 캡스톤디자인 경진대회 대상* | Chung-Ang University Davinch <br/> [Github Organization](https://github.com/triathlon-girls) |
 |:trophy: <br/>**Award** | <center> 2022. 12.02 </center> | *2022 중앙대학교 공학학술제 - 행정부총장상* | Chung-Ang University of Engineering, ICT Engineering, Software <br/> [Github Organization](https://github.com/triathlon-girls) |
 |:trophy: <br/>**Award** | <center> 2022. 12.08</center> | *2022 SW 인재페스티벌 우수작품 경진대회 - 대상 (과학기술정보통신부 장관상)* | 사단법인 SW중심 대학협의회 <br/> [Github Organization](https://github.com/triathlon-girls) |
+|:trophy: <br/>**Award** | <center> 2023. 02.10</center> | *미래인재상* | 한국소프트웨어산업협회 |
+|:trophy: <br/>**Award** | <center> 2023. 06.23</center> | *2023 CAU LINC3.0 현장실습 영상콘텐츠 공모전 - 우수상* | Chung-Ang University |
 </details>
 
 
